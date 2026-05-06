@@ -78,8 +78,8 @@ class Kiro:
 ### 贡献活跃度
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KerroKapple&theme=react-dark&hide_border=true&hide_title=true&area=true&bg_color=0d1117&color=4493f8&line=4493f8&point=4493f8">
-  <img alt="activity" src="https://github-readme-activity-graph.vercel.app/graph?username=KerroKapple&theme=minimal&hide_border=true&hide_title=true&area=true&bg_color=ffffff&color=0969da&line=0969da&point=0969da">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KerroKapple&theme=react-dark&hide_border=true&hide_title=true&area=false&bg_color=0d1117&color=4493f8&line=4493f8&point=4493f8">
+  <img alt="activity" src="https://github-readme-activity-graph.vercel.app/graph?username=KerroKapple&theme=minimal&hide_border=true&hide_title=true&area=false&bg_color=ffffff&color=0969da&line=0969da&point=0969da">
 </picture>
 
 ---
