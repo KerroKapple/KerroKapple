@@ -49,11 +49,8 @@ class Kiro:
 
 | 项目 | 简介 | 栈 |
 |---|---|---|
-| [**Enterprise_RAG**](https://github.com/KerroKapple/Enterprise_RAG) | 企业私有化 RAG 问答系统 | Python · Milvus · MySQL · Redis |
-| [**TCM_KnowledgeGraph**](https://github.com/KerroKapple/TCM_KnowledgeGraph) | 中医知识图谱 + LLM 智能问答 | Neo4j · LLM |
-| [**Travel_Agent2Agent**](https://github.com/KerroKapple/Travel_Agent2Agent) | 基于 A2A 协议的旅行助手 | Agent · LLM |
-| [**ContentFlow**](https://github.com/KerroKapple/ContentFlow) | AI 内容自动化平台 | Python · LLM |
-| [**Emo**](https://github.com/KerroKapple/Emo) | 实时表情识别 | CNN · 深度学习 |
+| [**InkFrame**](https://github.com/KerroKapple/InkFrame) | 本地优先的 AI 影视创作工作站，Flutter Desktop + 节点画布 | Flutter · Dart · Riverpod · AI |
+| [**Emo**](https://github.com/KerroKapple/Emo) | 基于深度学习的实时人脸表情识别 | Python · PyTorch · CNN |
 
 ---
 
