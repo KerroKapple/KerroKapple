@@ -11,13 +11,6 @@
   <sub>🌴 On vacation · GitHub handle: <code>KerroKapple</code> · 朋友叫我 <b>Kiro</b></sub>
 </p>
 
-<p>
-  <a href="mailto:kerro99920@gmail.com"><img src="https://img.shields.io/badge/-Email-1f2328?style=flat-square&logo=gmail&logoColor=white" alt="email"></a>
-  <a href="https://blog.kerro.cn"><img src="https://img.shields.io/badge/-Blog-1f2328?style=flat-square&logo=hugo&logoColor=white" alt="blog"></a>
-  <a href="https://github.com/KerroKapple"><img src="https://img.shields.io/github/followers/KerroKapple?style=flat-square&label=Followers&color=1f2328" alt="followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=KerroKapple&style=flat-square&color=1f2328&label=Visitors" alt="visitors">
-</p>
-
 </div>
 
 ---
