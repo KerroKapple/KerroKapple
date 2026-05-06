@@ -29,31 +29,46 @@
 ```python
 class Kiro:
     handle    = "KerroKapple"
-    focus     = ["RAG", "Knowledge Graph", "AI Agents"]
-    languages = ["Python", "C#", "JavaScript"]
-    tools     = ["Docker", "Milvus", "Neo4j", "MySQL", "Redis"]
-    current   = "在自己的服务器上把一切都跑起来"
+    focus     = ["AI 影视创作", "深度学习", "本地优先应用"]
+    languages = ["Python", "Dart", "C#"]
+    tools     = ["Flutter", "PyTorch", "Riverpod", "Docker"]
+    current   = "把多家 AI 模型串成一条创作流水线"
     learning  = "C#"
     motto     = "在键盘的缝隙里，种一些会发光的东西。"
 ```
 
-- 🧑‍💻 **正在做** —— 企业级 RAG 问答系统、Agent 工作流、自托管工具链
+- 🧑‍💻 **正在做** —— [InkFrame](https://github.com/KerroKapple/InkFrame)：本地优先的 AI 影视创作工作站
 - 📚 **在学** —— C#
 - ✍️ **写字** —— [blog.kerro.cn](https://blog.kerro.cn)
-- 💬 **聊聊** —— LLM 应用、知识图谱、Linux 系统、独立开发
+- 💬 **聊聊** —— Flutter 桌面、AI 创作工具、深度学习、独立开发
 - 🌴 **状态** —— On vacation（休假中，回复可能慢一点）
 
 ---
 
 ### 精选项目
 
-| 项目 | 简介 | 栈 |
-|---|---|---|
-| [**Enterprise_RAG**](https://github.com/KerroKapple/Enterprise_RAG) | 企业私有化 RAG 问答系统 | Python · Milvus · MySQL · Redis |
-| [**TCM_KnowledgeGraph**](https://github.com/KerroKapple/TCM_KnowledgeGraph) | 中医知识图谱 + LLM 智能问答 | Neo4j · LLM |
-| [**Travel_Agent2Agent**](https://github.com/KerroKapple/Travel_Agent2Agent) | 基于 A2A 协议的旅行助手 | Agent · LLM |
-| [**ContentFlow**](https://github.com/KerroKapple/ContentFlow) | AI 内容自动化平台 | Python · LLM |
-| [**Emo**](https://github.com/KerroKapple/Emo) | 实时表情识别 | CNN · 深度学习 |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎬 [InkFrame](https://github.com/KerroKapple/InkFrame)
+
+本地优先的 **AI 影视创作工作站**。Flutter Desktop + 节点画布，把多家 AI 图像 / 视频生成模型串成一条工作流。macOS + Windows 双平台。
+
+`Flutter` `Dart` `Riverpod` `Local-first` `AI`
+
+</td>
+<td width="50%" valign="top">
+
+#### 😊 [Emo](https://github.com/KerroKapple/Emo)
+
+基于深度学习的**实时人脸表情分类系统**。支持 ResNet / VGG / MobileNet / EfficientNet 等多种 CNN 架构，含训练、评估、量化/剪枝/蒸馏与 Web 演示。
+
+`Python` `PyTorch` `CNN` `Deep Learning`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,7 +76,7 @@ class Kiro:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cs,js,docker,linux,mysql,redis,neo4j,fastapi,nginx,vim,vscode,git,github&theme=light" alt="stack" />
+<img src="https://skillicons.dev/icons?i=python,dart,flutter,cs,pytorch,tensorflow,docker,linux,git,github,vscode,vim&theme=light" alt="stack" />
 
 </div>
 
