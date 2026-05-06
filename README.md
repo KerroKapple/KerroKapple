@@ -1,9 +1,7 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&weight=500&size=30&duration=3000&pause=1200&color=E6EDF3&center=true&vCenter=true&width=620&height=50&lines=Hi+there%2C+I'm+Kiro+%F0%9F%91%8B;在键盘的缝隙里%EF%BC%8C种一些会发光的东西。">
-  <img alt="hi" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&weight=500&size=30&duration=3000&pause=1200&color=1F2328&center=true&vCenter=true&width=620&height=50&lines=Hi+there%2C+I'm+Kiro+%F0%9F%91%8B;在键盘的缝隙里%EF%BC%8C种一些会发光的东西。">
-</picture>
+<h1>Hi there, I'm Kiro 👋</h1>
+<p><em>在键盘的缝隙里，种一些会发光的东西。</em></p>
 
 <p>
   <em>AI 应用开发者 · 自托管爱好者 · 折腾流</em>
