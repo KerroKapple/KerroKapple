@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Hi there, I'm Kiro">
+  <defs>
+    <linearGradient id="fadeRight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a47c5b" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#a47c5b" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/>
+      <feColorMatrix values="0 0 0 0 0.64  0 0 0 0 0.49  0 0 0 0 0.36  0 0 0 0.06 0"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+  </defs>
+
+  <!-- background warm wash -->
+  <rect width="900" height="220" fill="#fafaf7"/>
+  <rect width="900" height="220" filter="url(#grain)"/>
+
+  <!-- top-left bracket -->
+  <path d="M 40 40 L 40 28 L 52 28" stroke="#a47c5b" stroke-width="1.6" fill="none" stroke-linecap="square"/>
+  <!-- bottom-right bracket -->
+  <path d="M 860 192 L 860 180 L 848 180" stroke="#a47c5b" stroke-width="1.6" fill="none" stroke-linecap="square" transform="rotate(180 854 186)"/>
+
+  <!-- ink dot accent -->
+  <circle cx="64" cy="80" r="5" fill="#a47c5b"/>
+
+  <!-- main name -->
+  <text x="84" y="92"
+        font-family="'PingFang SC','LXGW WenKai TC','Source Han Serif SC','Noto Serif CJK SC','Songti SC',Georgia,serif"
+        font-size="54" fill="#1a1a1a" font-weight="400" letter-spacing="1">Hi there, I'm <tspan font-style="italic" fill="#a47c5b" font-weight="500">Kiro</tspan>.</text>
+
+  <!-- vertical accent bar -->
+  <line x1="86" y1="118" x2="86" y2="148" stroke="#a47c5b" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- slogan -->
+  <text x="102" y="142"
+        font-family="'LXGW WenKai TC','Source Han Serif SC','Noto Serif CJK SC','Songti SC',Georgia,serif"
+        font-size="20" fill="#3a342d" letter-spacing="2.5">在键盘的缝隙里，种一些会发光的东西。</text>
+
+  <!-- horizontal fade rule -->
+  <line x1="84" y1="172" x2="600" y2="172" stroke="url(#fadeRight)" stroke-width="1"/>
+
+  <!-- meta row -->
+  <text x="84" y="194"
+        font-family="'JetBrains Mono','SF Mono',ui-monospace,'Courier New',monospace"
+        font-size="11" fill="#6b5d4f" letter-spacing="3">AI&#160;APP&#160;DEV  ·  SELF-HOSTED  ·  折腾流  ·  🌴 ON&#160;VACATION</text>
+</svg>

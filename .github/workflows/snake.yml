@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: KerroKapple
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#a47c5b&color_dots=#eadfd0,#d4b896,#a47c5b,#7a5a3f,#523d2a
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#c9a378&color_dots=#1f1d18,#3a3025,#705839,#a07a4d,#c9a378
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
