@@ -89,21 +89,6 @@ class Kiro:
 
 ---
 
-### 🏆 成就墙
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=KerroKapple&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8">
-    <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=KerroKapple&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8">
-  </picture>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 <sub><code>kerro99920@gmail.com</code></sub>
