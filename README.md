@@ -87,10 +87,3 @@ class Kiro:
   <img alt="snake" src="https://raw.githubusercontent.com/KerroKapple/KerroKapple/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
-<div align="center">
-
-<sub><code>kerro99920@gmail.com</code></sub>
-
-</div>
