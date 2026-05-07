@@ -82,6 +82,26 @@ class Kiro:
   <img alt="activity" src="https://github-readme-activity-graph.vercel.app/graph?username=KerroKapple&theme=minimal&hide_border=true&hide_title=true&area=true&bg_color=ffffff&color=0969da&line=0969da&point=0969da">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KerroKapple/KerroKapple/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/KerroKapple/KerroKapple/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 🏆 成就墙
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=KerroKapple&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8">
+    <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=KerroKapple&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8">
+  </picture>
+</a>
+
+</div>
+
 ---
 
 <div align="center">
