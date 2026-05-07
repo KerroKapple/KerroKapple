@@ -1,15 +1,10 @@
 <div align="center">
 
-<h1>Hi there, I'm Kiro 👋</h1>
-<p><em>在键盘的缝隙里，种一些会发光的东西。</em></p>
+# Hi there, I'm Kiro 👋
 
-<p>
-  <em>AI 应用开发者 · 自托管爱好者 · 折腾流</em>
-</p>
+*在键盘的缝隙里，种一些会发光的东西。*
 
-<p>
-  <sub>🌴 On vacation · GitHub handle: <code>KerroKapple</code> · 朋友叫我 <b>Kiro</b></sub>
-</p>
+`AI 应用开发者`　`自托管爱好者`　`折腾流`　`🌴 On vacation`
 
 </div>
 
@@ -38,10 +33,25 @@ class Kiro:
 
 ### 精选项目
 
-| 项目 | 简介 | 栈 |
-|---|---|---|
-| [**InkFrame**](https://github.com/KerroKapple/InkFrame) | 本地优先的 AI 影视创作工作站，Flutter Desktop + 节点画布 | Flutter · Dart · Riverpod · AI |
-| [**Emo**](https://github.com/KerroKapple/Emo) | 基于深度学习的实时人脸表情识别 | Python · PyTorch · CNN |
+<div align="center">
+
+<a href="https://github.com/KerroKapple/InkFrame">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=KerroKapple&repo=InkFrame&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9198a1&icon_color=4493f8">
+    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=KerroKapple&repo=InkFrame&hide_border=true&bg_color=ffffff&title_color=1f2328&text_color=59636e&icon_color=0969da" />
+  </picture>
+</a>
+<a href="https://github.com/KerroKapple/Emo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=KerroKapple&repo=Emo&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9198a1&icon_color=4493f8">
+    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=KerroKapple&repo=Emo&hide_border=true&bg_color=ffffff&title_color=1f2328&text_color=59636e&icon_color=0969da" />
+  </picture>
+</a>
+
+</div>
+
+> 🎬 **InkFrame** 本地优先的 AI 影视创作工作站，Flutter Desktop + 节点画布<br>
+> 😊 **Emo** 基于深度学习的实时人脸表情识别（CNN / PyTorch）
 
 ---
 
