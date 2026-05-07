@@ -12,29 +12,6 @@
   <img alt="" src="https://raw.githubusercontent.com/KerroKapple/KerroKapple/main/assets/divider-light.svg" width="100%">
 </picture>
 
-### │　关于我
-
-```python
-class Kiro:
-    handle    = "KerroKapple"
-    focus     = ["RAG", "Knowledge Graph", "AI Agents"]
-    languages = ["Python", "C#", "JavaScript"]
-    tools     = ["Docker", "Milvus", "Neo4j", "MySQL", "Redis"]
-    current   = "在自己的服务器上把一切都跑起来"
-    learning  = "C#"
-    motto     = "在键盘的缝隙里，种一些会发光的东西。"
-```
-
-&nbsp;&nbsp;◦&nbsp;&nbsp;**正在做** &nbsp;企业级 RAG 问答系统 · Agent 工作流 · 自托管工具链
-&nbsp;&nbsp;◦&nbsp;&nbsp;**在学** &nbsp;C#
-&nbsp;&nbsp;◦&nbsp;&nbsp;**写字** &nbsp;[blog.kerro.cn](https://blog.kerro.cn)
-&nbsp;&nbsp;◦&nbsp;&nbsp;**聊聊** &nbsp;LLM 应用 · 知识图谱 · Linux 系统 · 独立开发
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KerroKapple/KerroKapple/main/assets/divider-dark.svg">
-  <img alt="" src="https://raw.githubusercontent.com/KerroKapple/KerroKapple/main/assets/divider-light.svg" width="100%">
-</picture>
-
 ### │　精选项目
 
 <div align="center">
