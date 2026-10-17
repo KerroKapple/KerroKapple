@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KerroKapple/KerroKapple/main/assets/banner-dark.svg">
-  <img alt="Hi there, I'm Kiro" src="https://raw.githubusercontent.com/KerroKapple/KerroKapple/main/assets/banner-light.svg" width="100%">
+  <img alt="Hi there, I'm Kerro" src="https://raw.githubusercontent.com/KerroKapple/KerroKapple/main/assets/banner-light.svg" width="100%">
 </picture>
 
 </div>

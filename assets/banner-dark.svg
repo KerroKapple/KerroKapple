@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Hi there, I'm Kiro">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Hi there, I'm Kerro">
   <defs>
     <linearGradient id="fadeRight" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#c9a378" stop-opacity="0.9"/>
@@ -21,7 +21,7 @@
 
   <text x="84" y="92"
         font-family="'PingFang SC','LXGW WenKai TC','Source Han Serif SC','Noto Serif CJK SC','Songti SC',Georgia,serif"
-        font-size="54" fill="#e8e6e0" font-weight="400" letter-spacing="1">Hi there, I'm <tspan font-style="italic" fill="#c9a378" font-weight="500">Kiro</tspan>.</text>
+        font-size="54" fill="#e8e6e0" font-weight="400" letter-spacing="1">Hi there, I'm <tspan font-style="italic" fill="#c9a378" font-weight="500">Kerro</tspan>.</text>
 
   <line x1="86" y1="118" x2="86" y2="148" stroke="#c9a378" stroke-width="2" stroke-linecap="round"/>
 
