@@ -76,8 +76,8 @@
 ### │　贡献活跃度
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KerroKapple&theme=react-dark&hide_border=true&hide_title=true&area=false&bg_color=0d1117&color=c9a378&line=c9a378&point=c9a378">
-  <img alt="activity" src="https://github-readme-activity-graph.vercel.app/graph?username=KerroKapple&theme=minimal&hide_border=true&hide_title=true&area=false&bg_color=ffffff&color=a47c5b&line=a47c5b&point=a47c5b">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KerroKapple/KerroKapple/output/activity-graph-dark.svg">
+  <img alt="activity" src="https://raw.githubusercontent.com/KerroKapple/KerroKapple/output/activity-graph.svg">
 </picture>
 
 <picture>
