@@ -39,6 +39,7 @@ jobs:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PORT: 5100
         run: |
+          sudo chown -R "$(id -u):$(id -g)" ../dist  # snk 为 docker action，dist 属主为 root
           npm install --no-audit --no-fund
           npx ts-node src/main.ts &
           for i in $(seq 1 60); do curl -sf localhost:5100/ >/dev/null && break; sleep 1; done
