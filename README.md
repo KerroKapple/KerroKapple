@@ -22,6 +22,12 @@
     <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=KerroKapple&repo=InkFrame&hide_border=true&bg_color=ffffff&title_color=a47c5b&text_color=6b5d4f&icon_color=a47c5b" />
   </picture>
 </a>
+<a href="https://github.com/KerroKapple/BuildView">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=KerroKapple&repo=BuildView&hide_border=true&bg_color=0d1117&title_color=c9a378&text_color=9b8e7f&icon_color=c9a378">
+    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=KerroKapple&repo=BuildView&hide_border=true&bg_color=ffffff&title_color=a47c5b&text_color=6b5d4f&icon_color=a47c5b" />
+  </picture>
+</a>
 <a href="https://github.com/KerroKapple/Emo">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=KerroKapple&repo=Emo&hide_border=true&bg_color=0d1117&title_color=c9a378&text_color=9b8e7f&icon_color=c9a378">
@@ -32,6 +38,8 @@
 </div>
 
 > 🎬　**InkFrame**　本地优先的 AI 影视创作工作站，Flutter Desktop + 节点画布
+>
+> 📚　**BuildView**　私有化 RAG 问答系统（Milvus + MySQL + Redis + 大模型）
 >
 > 😊　**Emo**　基于深度学习的实时人脸表情识别（CNN / PyTorch）
 
