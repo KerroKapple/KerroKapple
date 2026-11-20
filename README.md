@@ -39,7 +39,7 @@
 
 > 🎬　**InkFrame**　本地优先的 AI 影视创作工作站，Flutter Desktop + 节点画布
 >
-> 📚　**BuildView**　私有化 RAG 问答系统（Milvus + MySQL + Redis + 大模型）
+> 📚　**BuildView**　建筑工程智能平台：RAG 问答 + Agent + 知识图谱（Milvus / PostgreSQL / Neo4j）
 >
 > 😊　**Emo**　基于深度学习的实时人脸表情识别（CNN / PyTorch）
 
